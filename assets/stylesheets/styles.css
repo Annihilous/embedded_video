@@ -2,6 +2,10 @@ h3 {
   font-size: 40px;
 }
 
+h4 {
+  font-size: 22px;
+}
+
 .text-center {
   text-align: center;
 }
@@ -109,6 +113,8 @@ a:focus {
 
 .btn-primary {
   padding: 10px 40px;
+  font-size: 22px;
+  font-weight: bold;
   background-color: #33ceff;
   color: white;
   border: none;
@@ -155,6 +161,10 @@ a:focus {
 
 .modal-form-footer {
   padding: 0px 30px 30px;
+}
+
+.profile-thumb img {
+  max-width: 100%;
 }
 
 /*

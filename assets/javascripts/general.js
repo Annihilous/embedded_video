@@ -36,6 +36,20 @@ $(function() {
   });
 });
 
+$(function() {
+  $("#givingAddressFields").slideUp();
+  $("#givingAddressCheckbox").click(function(){
+    if($(this).is(':checked'))
+    {
+      $("#givingAddressFields").slideDown();
+    }
+    else
+    {
+      $("#givingAddressFields").slideUp();
+    }  
+  });
+});
+
 // ########  ########  ######  #### ######## ######## 
 // ##     ## ##       ##    ##  ##       ##  ##       
 // ##     ## ##       ##        ##      ##   ##       

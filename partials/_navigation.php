@@ -17,8 +17,11 @@
         <li><a href="/static_page_template/index.php">Serve</a></li>
         <li><a href="/static_page_template/index.php">Give</a></li>
         <li><a href="/static_page_template/index.php">Login</a></li>
+        <li><a href="#" data-toggle="modal" data-target="#editProfileModal" class="text-blue">Edit Profile</a></li>
       </ul>
 
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
+
+<?php include("partials/_edit_profile_modal.php"); ?>
