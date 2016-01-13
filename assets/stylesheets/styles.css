@@ -132,6 +132,31 @@ a:focus {
   border: none;
 }
 
+.modal-content {
+  border-radius: 0px;
+  padding: 10px 0px 0px 0px;
+}
+
+.modal-header {
+  border-bottom: none;
+}
+
+.modal-body {
+  padding: 0px 15px;
+}
+
+.modal-footer {
+  border-top: none;
+}
+
+.modal-form-container {
+  max-width: 100%;
+}
+
+.modal-form-footer {
+  padding: 0px 30px 30px;
+}
+
 /*
 ##    ##    ###    ##     ## ####  ######      ###    ######## ####  #######  ##    ## 
 ###   ##   ## ##   ##     ##  ##  ##    ##    ## ##      ##     ##  ##     ## ###   ## 
@@ -233,7 +258,7 @@ a:focus {
 
 .flex-control-nav {
     bottom: 10px;
-    z-index: 9999;
+    z-index: 99;
 }
 
 .flex-control-paging li a {
