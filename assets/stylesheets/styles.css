@@ -58,8 +58,24 @@ a:focus {
   padding-left: 20px;
 }
 
+.text-white {
+  color: white;
+}
+
 .text-blue {
   color: #33ceff;
+}
+
+.text-green {
+  color: green;
+}
+
+.text-red {
+  color: red;
+}
+
+.text-md {
+  font-size: 16px;
 }
 
 .text-sm {
@@ -70,8 +86,16 @@ a:focus {
   background-color: #33ceff;
 }
 
-.background-gray {
+.background-lightgray {
   background-color: lightgray;
+}
+
+.background-gray {
+  background-color: gray;
+}
+
+.background-darkgray {
+  background-color: darkgray;
 }
 
 .background-white {
@@ -82,8 +106,16 @@ a:focus {
   padding: 150px 0px;
 }
 
+.pad-section-sm {
+  padding: 50px 0px;
+}
+
 .container-sm {
   max-width: 400px;
+}
+
+.container-md {
+  max-width: 800px;
 }
 
 .fa-dot-custom {
@@ -94,6 +126,28 @@ a:focus {
 
 .img-icon {
   max-height: 50px;
+}
+
+th {
+  background-color: gray;
+  padding: 14px;
+}
+
+th.master-header {
+
+}
+
+.table>tbody>tr>th.master-header, .table>tfoot>tr>th.master-header, .table>thead>tr>th.master-header {
+  padding: 14px;
+}
+
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
+  border-top: none;
+  padding: 8px 14px;
+}
+
+img {
+  max-width: 100%;
 }
 
 /*
@@ -126,6 +180,15 @@ a:focus {
 .btn-primary:hover {
   opacity: 0.9;
   background-color: #33ceff;
+}
+
+.btn-primary.focus,
+.btn-primary:focus,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:active:focus {
+  background-color: #33ceff;
+  box-shadow: none;
 }
 
 .form-wrapper {
@@ -312,6 +375,32 @@ a:focus {
 ##     ## ######## ##     ## ########  ######## ##     ## 
 */
 
+/*
+ ######  ######## ########  ##     ## ######## 
+##    ## ##       ##     ## ##     ## ##       
+##       ##       ##     ## ##     ## ##       
+ ######  ######   ########  ##     ## ######   
+      ## ##       ##   ##    ##   ##  ##       
+##    ## ##       ##    ##    ## ##   ##       
+ ######  ######## ##     ##    ###    ######## 
+ */
+
+#givebanner {
+  padding: 80px 0px;
+}
+
+#givebanner img {
+  max-width: 100%;
+}
+
+.team-caption {
+  padding: 6px 0px 20px;
+}
+
+.team-caption p {
+  margin: 0px;
+  font-weight: bold;
+}
 
 /*
 ########  #######   #######  ######## ######## ########  

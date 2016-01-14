@@ -13,10 +13,8 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="/static_page_template/index.php">Home</a></li>
-        <li><a href="/static_page_template/index.php">Serve</a></li>
-        <li><a href="/static_page_template/index.php">Give</a></li>
-        <li><a href="/static_page_template/index.php">Login</a></li>
+        <li><a href="/shelby_arena/pcc-connect-update-2-01.php">pcc-connect-update-2-01.php</a></li>
+        <li><a href="/shelby_arena/pcc-connect-update-2-04.php">pcc-connect-update-2-04.php</a></li>
         <li><a href="#" data-toggle="modal" data-target="#editProfileModal" class="text-blue">Edit Profile</a></li>
       </ul>
 

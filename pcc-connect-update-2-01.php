@@ -17,7 +17,7 @@
     </ul>
   </div>
 
-  <div class="background-gray">
+  <div class="background-lightgray">
     <div class="pad-section pad-section">
       <div class="form-wrapper container container-sm background-white">
         <h3 class="text-center text-blue">
