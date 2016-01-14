@@ -15,6 +15,7 @@
       <ul class="nav navbar-nav navbar-right">
         <li><a href="/shelby_arena/pcc-connect-update-2-01.php">pcc-connect-update-2-01.php</a></li>
         <li><a href="/shelby_arena/pcc-connect-update-2-04.php">pcc-connect-update-2-04.php</a></li>
+        <li><a href="/shelby_arena/pcc-connect-update-2-05.php">pcc-connect-update-2-05.php</a></li>
         <li><a href="#" data-toggle="modal" data-target="#editProfileModal" class="text-blue">Edit Profile</a></li>
       </ul>
 

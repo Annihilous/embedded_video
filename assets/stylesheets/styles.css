@@ -402,6 +402,17 @@ img {
   font-weight: bold;
 }
 
+#servingScheduleCalendar {
+  height: 250px;
+  background-color: darkgray;
+}
+
+.team-heading {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 50px 15px 10px;
+}
+
 /*
 ########  #######   #######  ######## ######## ########  
 ##       ##     ## ##     ##    ##    ##       ##     ## 
