@@ -4,6 +4,10 @@
   <li><a href="/shelby_arena/pcc-connect-update-2-05.php">pcc-connect-update-2-05.php</a></li>
   <li><a href="/shelby_arena/pcc-connect-update-2-06.php">pcc-connect-update-2-06.php</a></li>
   <li><a href="/shelby_arena/pcc-connect-update-2-09.php">pcc-connect-update-2-09.php</a></li>
+  <li><a href="/shelby_arena/pcc-connect-update-2-11.php">pcc-connect-update-2-11.php</a></li>
+  <li><a href="/shelby_arena/pcc-connect-update-2-12.php">pcc-connect-update-2-12.php</a></li>
+  <li><a href="/shelby_arena/pcc-connect-update-2-13.php">pcc-connect-update-2-13.php</a></li>
+
 </ul>
 
 <nav class="navbar navbar-default">
@@ -25,6 +29,7 @@
         <li><a href="#" data-toggle="modal" data-target="#blackoutDatesModal" class="text-blue">Blackout DatesModal</a> </li>
         <li><a href="#" data-toggle="modal" data-target="#declineEventModal" class="text-blue">Decline Event Modal</a> </li>
         <li><a href="#" data-toggle="modal" data-target="#givingModal" class="text-blue">Giving Modal</a> </li>
+        <li><a href="#" data-toggle="modal" data-target="#updateGiftModal" class="text-blue">Update Gift Modal</a> </li>
       </ul>
 
     </div><!-- /.navbar-collapse -->
@@ -36,3 +41,5 @@
 <?php include("partials/_blackout_dates_modal.php"); ?>
 <?php include("partials/_decline_event_modal.php"); ?>
 <?php include("partials/_giving_modal.php"); ?>
+<?php include("partials/_update_gift_modal.php"); ?>
+

@@ -102,8 +102,16 @@ a:focus {
   background-color: darkgray;
 }
 
+.form-control.background-white {
+  background-color: white;
+}
+
 .background-white {
   background-color: white;
+}
+
+.pad {
+  padding: 20px;
 }
 
 .pad-section {
@@ -148,6 +156,11 @@ th.master-header {
 .table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
   border-top: none;
   padding: 8px 14px;
+  vertical-align: middle;
+}
+
+.border-bottom {
+  border-bottom: 1px solid lightgray;
 }
 
 img {
@@ -187,6 +200,11 @@ img {
   }
 }
 
+.btn-primary.btn-sm {
+  padding: 6px 8px;
+  font-size: 16px;
+}
+
 .btn-primary:hover {
   opacity: 0.9;
   background-color: #33ceff;
@@ -209,6 +227,10 @@ img {
   background-color: lightgray;
   background-image: none;
   border: none;
+}
+
+.form-indent {
+  padding-left: 15px;
 }
 
 .modal {
@@ -456,6 +478,14 @@ img {
 
 .one-time-gift-wrapper {
   padding: 40px 0px;
+}
+
+.cancel-gift-link {
+  text-decoration: underline;
+}
+
+.cancel-gift-link:hover {
+  text-decoration: underline;
 }
 
 /*
