@@ -22,6 +22,7 @@
         <li><a href="#" data-toggle="modal" data-target="#editProfileModal" class="text-blue">Profile Modal</a></li>
         <li><a href="#" data-toggle="modal" data-target="#signUpModal" class="text-blue">Sign Up Modal</a> </li>
         <li><a href="#" data-toggle="modal" data-target="#blackoutDatesModal" class="text-blue">Blackout DatesModal</a> </li>
+        <li><a href="#" data-toggle="modal" data-target="#declineEventModal" class="text-blue">Decline Event Modal</a> </li>
       </ul>
 
     </div><!-- /.navbar-collapse -->
@@ -31,3 +32,5 @@
 <?php include("partials/_edit_profile_modal.php"); ?>
 <?php include("partials/_sign_up_modal.php"); ?>
 <?php include("partials/_blackout_dates_modal.php"); ?>
+<?php include("partials/_decline_event_modal.php"); ?>
+
