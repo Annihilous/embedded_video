@@ -8,7 +8,7 @@
       <div class="row">
         <div class="col-sm-5 give-column">
           <div class="background-white form-wrapper" style="height: 100%;">
-            <div class="one-time-gift-wrapper">
+            <div class="one-time-gift-wrapper text-center">
               <h4>One Time Gift</h4>
               <p>Give to Passion City Church online</p>
               <form>
@@ -29,7 +29,7 @@
   </div>
 
   <div class="background-white">
-    <div class="pad-section pad-section-sm container container-md">
+    <div class="pad-section pad-section-sm container">
       <div class="row">
         <div class="col-xs-12 text-center">
           <h4>Opportunities to Give</h4>

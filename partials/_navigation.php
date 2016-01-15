@@ -24,6 +24,7 @@
         <li><a href="#" data-toggle="modal" data-target="#signUpModal" class="text-blue">Sign Up Modal</a> </li>
         <li><a href="#" data-toggle="modal" data-target="#blackoutDatesModal" class="text-blue">Blackout DatesModal</a> </li>
         <li><a href="#" data-toggle="modal" data-target="#declineEventModal" class="text-blue">Decline Event Modal</a> </li>
+        <li><a href="#" data-toggle="modal" data-target="#givingModal" class="text-blue">Giving Modal</a> </li>
       </ul>
 
     </div><!-- /.navbar-collapse -->
@@ -34,4 +35,4 @@
 <?php include("partials/_sign_up_modal.php"); ?>
 <?php include("partials/_blackout_dates_modal.php"); ?>
 <?php include("partials/_decline_event_modal.php"); ?>
-
+<?php include("partials/_giving_modal.php"); ?>
