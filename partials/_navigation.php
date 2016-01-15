@@ -3,6 +3,7 @@
   <li><a href="/shelby_arena/pcc-connect-update-2-04.php">pcc-connect-update-2-04.php</a></li>
   <li><a href="/shelby_arena/pcc-connect-update-2-05.php">pcc-connect-update-2-05.php</a></li>
   <li><a href="/shelby_arena/pcc-connect-update-2-06.php">pcc-connect-update-2-06.php</a></li>
+  <li><a href="/shelby_arena/pcc-connect-update-2-09.php">pcc-connect-update-2-09.php</a></li>
 </ul>
 
 <nav class="navbar navbar-default">

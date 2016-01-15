@@ -154,6 +154,12 @@ img {
   max-width: 100%;
 }
 
+.background-image {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 /*
 ########   ######      #######  ##     ## ######## ########  ########  #### ########  ########  ######  
 ##     ## ##    ##    ##     ## ##     ## ##       ##     ## ##     ##  ##  ##     ## ##       ##    ## 
@@ -196,7 +202,7 @@ img {
 }
 
 .form-wrapper {
-  padding: 0px 20px 30px 20px;
+  padding: 2px 20px 30px 20px;
 }
 
 .form-control {
@@ -423,6 +429,33 @@ img {
   font-size: 18px;
   font-weight: bold;
   padding: 50px 15px 10px;
+}
+
+/*
+ ######   #### ##     ## ######## 
+##    ##   ##  ##     ## ##       
+##         ##  ##     ## ##       
+##   ####  ##  ##     ## ######   
+##    ##   ##   ##   ##  ##       
+##    ##   ##    ## ##   ##       
+ ######   ####    ###    ########
+*/
+
+.give-image-wrapper {
+  margin: 30px 0px;
+}
+
+.give-column {
+  min-height: 300px;
+}
+
+.give-or {
+  font-size: 48px;
+  padding: 120px 0px;
+}
+
+.one-time-gift-wrapper {
+  padding: 40px 0px;
 }
 
 /*
